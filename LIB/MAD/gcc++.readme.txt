@@ -1,0 +1,2 @@
+you can use the "reimp.exe" tool (from the mingw package) to convert
+the Microsoft lib files to a format which is usable for you
